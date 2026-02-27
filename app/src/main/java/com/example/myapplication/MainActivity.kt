@@ -25,7 +25,6 @@ import com.example.myapplication.ui.theme.MyApplicationTheme
 import com.github.achmadqomarudin.composechart.line.LineChart
 import com.github.achmadqomarudin.composechart.line.LineChartData
 import com.github.achmadqomarudin.composechart.line.LineDataSet
-import android.graphics.Paint
 
 val LocalDate.weekOfYear: Int
     get() {
